@@ -1,0 +1,6 @@
+# CAD source files are too large for GitHub (the skid STL is ~136 MB); keep them outside the repo
+*.stl
+*.STL
+__pycache__/
+.vercel/
+.DS_Store
